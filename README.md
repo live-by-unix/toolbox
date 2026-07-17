@@ -352,7 +352,7 @@ toolbox run myscript --no-venv  # Will fail if package is venv-only
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/altforunix/tobepushed).
+Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/live-by-unix/tobepushed).
 
 ## License
 
@@ -360,4 +360,4 @@ BSD 3-Clause License - See [LICENSE](LICENSE) for details.
 
 ## Support
 
-For issues, questions, or feature requests, please open an issue on [GitHub](https://github.com/altforunix/tobepushed/issues).
+For issues, questions, or feature requests, please open an issue on [GitHub](https://github.com/live-by-unix/toolbox/issues).
