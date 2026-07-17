@@ -17,7 +17,7 @@ The philosophy is simple: write your scripts once, organize them, and run them a
 ### From Source
 
 ```bash
-git clone https://github.com/altforunix/tobepushed.git
+git clone https://github.com/live-by-unix/toolbox.git
 cd tobepushed
 pip install -e .
 ```
@@ -26,12 +26,6 @@ During installation, Toolbox will automatically:
 1. Create `~/.toolbox/venv` (isolated virtual environment)
 2. Create `~/.toolbox_scripts/` (scripts directory)
 3. Initialize the environment
-
-### From PyPI
-
-```bash
-pip install toolbox-cli
-```
 
 ## Quick Start
 
