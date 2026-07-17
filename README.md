@@ -18,7 +18,7 @@ The philosophy is simple: write your scripts once, organize them, and run them a
 
 ```bash
 git clone https://github.com/live-by-unix/toolbox.git
-cd tobepushed
+cd toolbox
 pip install -e .
 ```
 
